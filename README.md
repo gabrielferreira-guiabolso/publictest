@@ -1,3 +1,1 @@
-# publictest
-
-teste 1
+AAA
